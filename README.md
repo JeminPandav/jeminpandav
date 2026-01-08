@@ -2,6 +2,7 @@
 <h1 align="center">👋 Hi, I'm Jemin Pandav</h1>
 <h3 align="center">B.Sc.IT Student</h3>
 VICAIT 
+Bachelor of Science in Information Technology
 <!--
 **JeminPandav/jeminpandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
