@@ -3,6 +3,8 @@
 <h3 align="center">B.Sc.IT Student</h3>
 VICAIT 
 Bachelor of Science in Information Technology
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
 <!--
 **JeminPandav/jeminpandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
