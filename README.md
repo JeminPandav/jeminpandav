@@ -4,14 +4,14 @@
 VICAIT 
 Bachelor of Science in Information Technology
 Third Year (Last Sem - 6th Sem)
-Here are some ideas to get you started:
+Here are some ideas to get you started:Bachelor of Science in Information Technology
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 
-
+Third Year (Last Sem - 6th Sem)
 <!--
 **JeminPandav/jeminpandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
